@@ -1,0 +1,4 @@
+def prints():
+    print("**")
+
+prints()
